@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"bh_adv_java2","l":"bh_adv_java2()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"bh_adv_java2","l":"firstMeeting(String)","u":"firstMeeting(java.lang.String)"},{"p":"<Unnamed>","c":"bh_adv_java2","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
